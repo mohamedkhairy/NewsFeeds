@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsFeeds</string>
+    <string name="image_desc">main image</string>
+    <string name="menu_desc">Menu</string>
+    <string name="search_desc">search</string>
+    <string name="link_dev">LINK DEVELOPMENT</string>
+
+
+</resources>
